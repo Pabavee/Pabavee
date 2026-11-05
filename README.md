@@ -8,13 +8,15 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pabavee&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/Pabavee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <a href="https://www.linkedin.com/in/pabavee-perera-556843339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>  
   <a href="mailto:pabaveeperera@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </div>
+
+<br>
 
 <!-- About Me Section -->
 <div align="center">
@@ -56,6 +58,25 @@
 
 <br>
 
+<!-- Featured Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/Pabavee/ai-hand-gesture-translator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pabavee&repo=ai-hand-gesture-translator&theme=tokyonight&hide_border=true" alt="AI Hand Gesture Translator" />
+  </a>
+  <a href="https://github.com/Pabavee/netflix-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pabavee&repo=netflix-clone&theme=tokyonight&hide_border=true" alt="Netflix Clone" />
+  </a>
+  <a href="https://github.com/Pabavee/car-renting-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pabavee&repo=car-renting-management&theme=tokyonight&hide_border=true" alt="Car Renting Management" />
+  </a>
+  <a href="https://github.com/Pabavee/sport-equipment-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pabavee&repo=sport-equipment-management&theme=tokyonight&hide_border=true" alt="Sport Equipment Management" />
+  </a>
+</div>
+
+<br>
+
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
@@ -63,6 +84,20 @@
   alt="Pabavee's GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabavee&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="Most Used Languages" height="180em" />
+</div>
+
+<br>
+
+<!-- Custom Quote Section (Like your friend's) -->
+<div align="center">
+  <div style="background-color: #161b22; border-radius: 10px; padding: 30px; max-width: 600px; margin: 0 auto; text-align: left; border: 1px solid #30363d; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+    <p style="font-family: 'Fira Code', monospace; color: #0CE6F2; font-size: 18px; line-height: 1.6; font-style: italic;">
+      "We who cut mere stones must always be envisioning cathedrals."
+    </p>
+    <p style="font-family: 'Fira Code', monospace; color: #8b949e; text-align: right; margin-top: 15px; font-size: 14px;">
+      - Quarry worker's creed
+    </p>
+  </div>
 </div>
 
 <br>
