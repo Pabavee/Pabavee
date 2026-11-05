@@ -88,16 +88,17 @@
 
 <br>
 
-<!-- Custom Quote Section (Like your friend's) -->
+<!-- Custom Quote Section -->
 <div align="center">
-  <div style="background-color: #161b22; border-radius: 10px; padding: 30px; max-width: 600px; margin: 0 auto; text-align: left; border: 1px solid #30363d; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-    <p style="font-family: 'Fira Code', monospace; color: #0CE6F2; font-size: 18px; line-height: 1.6; font-style: italic;">
-      "We who cut mere stones must always be envisioning cathedrals."
-    </p>
-    <p style="font-family: 'Fira Code', monospace; color: #8b949e; text-align: right; margin-top: 15px; font-size: 14px;">
-      - Quarry worker's creed
-    </p>
-  </div>
+  <table style="border: none; background-color: #161b22; border-radius: 10px; padding: 25px; max-width: 650px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+    <tr>
+      <td>
+        <p style="font-family: 'Fira Code', monospace; color: #0CE6F2; font-size: 18px; font-style: italic; line-height: 1.6; margin: 0;">
+          "Tomorrow I might be a tiny bit wiser, and that's me, too"
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
